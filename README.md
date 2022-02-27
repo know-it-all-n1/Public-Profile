@@ -1,7 +1,9 @@
 Hi, this is Joshep 🖐️
 
-I know python, and I am trying to master my python skills. At the moment I am also learning Lua and JS. Actually I am working in a discord bot using the [PyCord](https://github.com/Pycord-Development/pycord) python library.
+I've been leraning python for 4 years now, and trying to master my skills by the time you read this. I am also learning JS and Lua.
 
-An other proyect I am developing, is a FiveM server, but of course I am always opened colaborate in any project (python base one, preferably).
+At the moment I'm working in a discord bot using the [PyCord](https://github.com/Pycord-Development/pycord) python library.
 
-You can contact me through my discord, but pls don't spam and be specific or I'll ignore or block you.
+An other proyect I am developing, is a [FiveM](https://fivem.net/) server, but of course I am always opened colaborate in any project (preferably related with web development, or python-orientated ones).
+
+You can contact me through my discord `Josesitos#7091`, but pls don't spam and be specific or I'll ignore or block you.

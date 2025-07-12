@@ -1,16 +1,18 @@
-Hi, I'm Joshep 🖐️.<br>
-I am a Software Engineer student at the UPM in Spain.
+# About me
 
-### My "<i>knowledge</i>":
+Hi, I'm Jose 🖐️ and I am pursuing a degree on Software Engineering at the Technical University of Madrid (UPM) in Spain.
+I am very keen on techonology and in its ability to shape the future of our societies. I also love maths and hiking mountains ⛰.
 
-[🐍] : Intermediate<br>
-[☕] : Basic<br>
-[🌕] : Basic<br>
+## Technical "<i>knowledge</i>"
 
-### My Projects:
+- [🐍] Python, [☕] Java
 
-I've made discord bots using the [PyCord](https://github.com/Pycord-Development/pycord) python wrapper for discord api. By the moment I am working in Cfx.re FiveM GTA5 mod development.
+## My Projects
 
-You can contact me through my discord `josesitos`, but don't spam and be specific otherwise I'll ignore or block you.
-
+- I've made discord bots using both discord.py and [PyCord](https://github.com/Pycord-Development/pycord) wrappers of the discord api.
+- I've learned the basics of mod development for GTA in the FiveM environment.
+- At the moment I am learning about AI and decentralization.
+  
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoshepCodes)](https://github.com/anuraghazra/github-readme-stats)
+
+If you have an insteresting proyect that you think I might fit in, don't hesitate to contact me.

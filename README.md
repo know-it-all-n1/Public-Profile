@@ -11,7 +11,7 @@ I am very keen on techonology and in its ability to shape the future of our soci
 
 - I've made discord bots using both discord.py and [PyCord](https://github.com/Pycord-Development/pycord) wrappers of the discord api.
 - I've learned the basics of mod development for GTA in the FiveM environment.
-- At the moment I am learning about AI and decentralization.
+- At the moment I am learning about concurrency and distributed systems.
   
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoshepCodes)](https://github.com/anuraghazra/github-readme-stats)
 

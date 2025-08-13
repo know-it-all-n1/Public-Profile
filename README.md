@@ -15,4 +15,4 @@ I am very keen on techonology and in its ability to shape the future of our soci
   
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=know-it-all-n1)](https://github.com/anuraghazra/github-readme-stats)
 
-If you have an insteresting proyect that you think I might fit in, don't hesitate to contact me.
+If you have an insteresting project that you think I might fit in, don't hesitate to contact me.
